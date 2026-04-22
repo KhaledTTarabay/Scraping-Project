@@ -1,2 +1,2 @@
-.env
-.venv
+raw_data.csv
+clean_data.csv
