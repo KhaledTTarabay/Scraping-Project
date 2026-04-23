@@ -1,6 +1,7 @@
 .env
 .venv
+__pycache__
+*.pyc
 raw_data.csv
 clean_data.csv
 analysis.csv
-__pycache__
