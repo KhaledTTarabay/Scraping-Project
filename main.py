@@ -1,6 +1,6 @@
 from scraper.youtube_api import search_videos, save_to_csv
 from cleaner import clean_data
-from analyzer import analyze
+from analyzer import analyze, channel_analysis, best_time_to_post
 
 searchWord = input("Enter the niche you wanna scrape: ")
 
@@ -12,3 +12,5 @@ for video in results:
 save_to_csv(results)
 clean_data()
 analyze()
+channel_analysis()
+best_time_to_post()

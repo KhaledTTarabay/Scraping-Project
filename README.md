@@ -20,6 +20,3 @@ A data pipeline that collects Youtube video data via the Youtube Data API v3, cl
 ## Libraries used
 - Pandas, Streamlit, Plotly
 - Youtube Data API v3
-
-### Future Versions: 
-Planning to add multiplatform scraping and analysis
