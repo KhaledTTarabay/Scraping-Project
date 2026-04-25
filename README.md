@@ -15,7 +15,8 @@ A data pipeline that collects Youtube video data via the Youtube Data API v3, cl
 4. install dependencies: pip install -r requirements.txt
 5. create a .env file with your Youtube API key
 6. run: python main.py
-7. launch dashboard: streamlit run dashboard.py
+7. enter the niche you wanna scrape
+8. launch dashboard: streamlit run dashboard.py
 
 ## Libraries used
 - Pandas, Streamlit, Plotly
